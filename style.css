@@ -1,0 +1,14 @@
+body{
+    font-family: 'Akshar', sans-serif; 
+}
+
+.innerDiv-style img{
+    height: 400px;
+    border-radius: 15px;
+}
+
+.allfoods-div{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 15px;
+}
